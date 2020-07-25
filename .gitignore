@@ -1,3 +1,12 @@
 .vscode/
 .ENV/
 *.sqlite3
+
+.bashrc
+.cache/
+.local/
+.profile
+.python_history
+.pythonstartup.py
+.vimrc
+.virtualenvs/
