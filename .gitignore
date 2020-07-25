@@ -1,6 +1,5 @@
 .vscode/
 .ENV/
-*.sqlite3
 
 .bashrc
 .cache/
